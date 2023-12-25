@@ -1,2 +1,2 @@
 # training009
-satwant singh is learning software testing since semptember. 
+satwant singh is learning software testing since september. 
